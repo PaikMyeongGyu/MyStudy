@@ -1,5 +1,7 @@
 package SetterAndSetter.SetterAndSetter.kiosk;
 
+import lombok.RequiredArgsConstructor;
+
 import java.util.Scanner;
 
 public class Client {
